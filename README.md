@@ -1,6 +1,3 @@
-# Welcome to StackEdit!
-
-
 # Homebrew-stickers
 
 This repo is about homebrew culture and homebrewing clubs.
