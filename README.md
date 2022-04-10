@@ -13,7 +13,7 @@ The folders contain the PNG 1000x1000px files:
 
 
 
-### Contrebution
+### Contribution
 Please make a fork to this repo and push back your ideas to here.
 You can send ideas for new stickers [here](mailto:philusha1983@gmail.com?subject=An%20idea%20to%20your%20homebrewing%20stickers%20repo&body=Hello%20Philip,%0D%0A%0D%0A%0D%0A.....)
 
