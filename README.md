@@ -18,14 +18,14 @@ Please make a fork to this repo and push back your ideas to here.
 You can send ideas for new stickers [here](mailto:philusha1983@gmail.com?subject=An%20idea%20to%20your%20homebrewing%20stickers%20repo&body=Hello%20Philip,%0D%0A%0D%0A%0D%0A.....)
 
 ### Current avaible version:
-Whatsapp stickers: 1.0
+Whatsapp stickers: 1.1
  1. [Pack 1](https://sticker.ly/s/CIWZS0) 
  2. [Pack 2](https://sticker.ly/s/A1B1JR)
  3. [Pack 3](https://sticker.ly/s/5NMNC9)
  4. [Pack 4](https://sticker.ly/s/Q9DV4A)
 
 
-Telegram stickers: 1.0  
+Telegram stickers: 1.1  
  - [Stickers set](https://t.me/addstickers/Homebrewer)
 
 
